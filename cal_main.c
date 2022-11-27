@@ -17,5 +17,6 @@ int main(int argc, char *argv[])
     printf("%d / %d => %d\n", a, b, dur(a, b));
     printf("===============\n");
     printf("1");
+    printf("2");
     return 0;
 }
